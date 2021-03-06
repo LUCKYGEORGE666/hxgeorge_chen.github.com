@@ -11,9 +11,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Educations
+## 2018～present   Undergrad.   Agricultural Built Environment and Energy Engineering in China Agricultural University, Beijing, China
+## 2018～present   Double major undergrad.   Economics (Double major), Peking University, Beijing, China
+
+# Research Experiences
+## 03/2021 – present      Prof. Zhidan Liu’s research group, E2E, China Agricultural Univ., China. 
+##                        With joint advice from Prof. Yuanhui Zhang (UIUC, USA)
+## Project (main creator and team leader): Deep insights of activated magnetic hydrochar synthesized via one-pot and two-stage processes for                                                  arsenic removal 
+##
+## 11/2020 – 02/2021      Prof. Zhidan Liu’s research group, E2E, China Agricultural Univ., China.
+## Project (main creator and team leader): Arsenic removal via a novel magnetic hydrochar from livestock manure: fabrication, characterization and directed activation
+##    i)	Created and introduced a novel magnetic hydrochar co-activated by thiourea and γ-Fe2O3 nanoparticles through one-pot synthesis for the             first time;
+##    ii)	Systematically characterized the activated hydrochar via EA (element analysis), SEM-EDS, BET study, ICP-OES, XRD, SQUID, XPS, FTIR and  
+##        Zeta Potential;
+##    iii)Deeply analyzed the As(V) adsorption capacity through kinetic and isotherm models, where the effects of solution pH and background                 electrolytes were specifically investigated.
+##    iv)	Discussed the As(V) desorption and reusability of activated hydrochar to achieve comprehensive regeneration.
+
+
 
 - Bulleted
 - List
